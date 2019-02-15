@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Notificaciones</string>
+
+    <string-array name="opciones_respuesta">
+        <item>Si</item>
+        <item>No</item>
+        <item>Preguntar después</item>
+    </string-array>
+
+</resources>
